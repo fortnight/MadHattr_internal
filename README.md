@@ -6,4 +6,4 @@ As is specified in the pom.xml file, code is generated from a yaml api contract 
 Download the api contract yaml from our [apicurio project](https://studio.apicur.io/apis/36563) and place the downloaded file in the above path location with the proper name.  
 To generate, run the command `$ mvn clean compile`  
 Code should be generated in the `target/generated-sources/openapi/src/` directory.  
-This being the master branch of the code the code is already generated. To generate code, use the "ungenerated" branch.
+This being the ungenerated branch of the code the code can be generated here.
